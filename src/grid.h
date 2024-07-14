@@ -1,4 +1,4 @@
-/* Copyright 2023 Arjun Aravind */
+
 #ifndef SRC_GRID_H_
 #define SRC_GRID_H_
 
