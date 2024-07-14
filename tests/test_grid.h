@@ -1,4 +1,4 @@
-/* Copyright 2023 Arjun Aravind */
+
 #ifndef TESTS_TEST_GRID_H_
 #define TESTS_TEST_GRID_H_
 
