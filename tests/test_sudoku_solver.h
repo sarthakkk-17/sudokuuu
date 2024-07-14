@@ -1,4 +1,4 @@
-/* Copyright 2023 Arjun Aravind */
+
 #ifndef TESTS_TEST_SUDOKU_SOLVER_H_
 #define TESTS_TEST_SUDOKU_SOLVER_H_
 
