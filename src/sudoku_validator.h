@@ -1,4 +1,4 @@
-/* Copyright 2023 Arjun Aravind */
+
 #ifndef SRC_SUDOKU_VALIDATOR_H_
 #define SRC_SUDOKU_VALIDATOR_H_
 
